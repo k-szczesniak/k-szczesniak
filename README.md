@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there! I'm Krzysiek. 👋
 
+## I am a Fullstack developer with a preference for backend tasks.
+
+* 👨‍💻 I work with Java on a daily basis.
+* 📚 I’m currently interested in microservices architecture and Apache Kafka.
 <!--
 **k-szczesniak/k-szczesniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
